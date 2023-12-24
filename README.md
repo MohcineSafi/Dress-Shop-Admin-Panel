@@ -22,7 +22,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MohcineSafi/dress-shop.git
+    git clone https://github.com/MohcineSafi/Dress-Shop-Admin-Panel.git
     ```
 
 2. Configure your web server to serve the project from the appropriate directory.
